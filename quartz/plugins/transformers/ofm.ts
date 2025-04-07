@@ -246,14 +246,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   } else if ([".mp4", ".webm", ".ogv", ".mov", ".mkv"].includes(ext)) {
                     return {
                       type: "html",
-                      value: `<video src="${url}" controls></video>`,
+                      value: `<video src="${url}" autoplay muted playsinline loop></video>`,
                     }
                   } else if (
                     [".mp3", ".webm", ".wav", ".m4a", ".ogg", ".3gp", ".flac"].includes(ext)
                   ) {
                     return {
                       type: "html",
-                      value: `<audio src="${url}" controls></audio>`,
+                      value: `<audio src="${url}" autoplay muted playsinline loop></audio>`,
                     }
                   } else if ([".pdf"].includes(ext)) {
                     return {

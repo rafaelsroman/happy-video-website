@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Instagram: "https://instagram.com/rafaelstanroman",
     },
   }),
 }
@@ -17,32 +16,33 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    //Component.ConditionalRender({
+    //  component: Component.Breadcrumbs(),
+    //  condition: (page) => page.fileData.slug !== "index",
+    //}),
+    //Component.ArticleTitle(),
+    //Component.ContentMeta(),
+    //Component.TagList(),
   ],
   left: [
+    Component.ImageTitle(),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
+    //Component.Flex({
+      //components: [
+        //{
+          //Component: Component.Search(),
+          //grow: true,
+        //},
+        //{ Component: Component.Darkmode() },
+      //],
+    //}),
+    //Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    //Component.Graph(),
+    //Component.DesktopOnly(Component.TableOfContents()),
+    //Component.Backlinks(),
   ],
 }
 
@@ -52,16 +52,16 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
+    //Component.Flex({
+      //components: [
+        //{
+          //Component: Component.Search(),
+          //grow: true,
+        //},
+        //{ Component: Component.Darkmode() },
+      //],
+    //}),
+    //Component.Explorer(),
   ],
   right: [],
 }
