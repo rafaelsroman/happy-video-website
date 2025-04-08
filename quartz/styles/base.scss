@@ -17,6 +17,9 @@ section {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
+  transform: scale(0.78);
+  transform-origin: top;
+  width: 100%;
   color: var(--darkgray);
 }
 
@@ -142,7 +145,7 @@ a {
   margin: 0 auto;
   & article {
     & > h1 {
-      font-size: 2rem;
+      font-size: 1.75rem;
     }
 
     & li:has(> input[type="checkbox"]) {

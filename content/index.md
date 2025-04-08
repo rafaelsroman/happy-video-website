@@ -8,16 +8,12 @@ title: Happy Video
 
 
 >[!hint] Why video?
->In today’s digital age, ==video content is more than just a trend== - it’s an effective way to communicate your brand’s story, explain your value proposition, and build relationships with your customers and prospects.
+>In today’s digital age, ==video content is more than just a trend== - it’s an effective way to communicate your brand’s story, explain your value proposition, and build relationships with your customers and prospects. Think of it as _==a video is made of thousands of pictures, of which each says more than a thousand words==_ 
 
 Did I wake some interest? [[#Lets Chat 🤙🏼|Lets get in touch!]] Or look at some results first: 
 # Examples 🎥
 
-![[flieda.webm]]
-![[SZENE OPENAIR FESTIVAL 2022 AFTERMOVIE.webm]]
-![[02_SZENE_19_Foals_Rafael-S-Roman_2720.webp]]
-![[07_SZENE_19_Annenmaykantereit_Rafael-S-Roman_3215.webp]]
-![[10_SZENE_19_Donots_Rafael-S-Roman_2142.webp]]
+![[flieda.webm]]![[SZENE OPENAIR FESTIVAL 2022 AFTERMOVIE.webm]]![[02_SZENE_19_Foals_Rafael-S-Roman_2720.webp]]![[07_SZENE_19_Annenmaykantereit_Rafael-S-Roman_3215.webp]]![[10_SZENE_19_Donots_Rafael-S-Roman_2142.webp]]
 
 
 # ==Lets Chat== 🤙🏼
@@ -34,5 +30,5 @@ ___
 
 ![[Workedwith2025-02.webp]]
 
-
 ![[360 cam website.webm]]
+
