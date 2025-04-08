@@ -49,7 +49,7 @@ export interface GlobalConfiguration {
   /** Whether to enable single-page-app style rendering. this prevents flashes of unstyled content and improves smoothness of Quartz */
   enableSPA: boolean
   /** Whether to display Wikipedia-style popovers when hovering over links */
-  enablePopovers: false
+  enablePopovers: boolean
   /** Analytics mode */
   analytics: Analytics
   /** Glob patterns to not search */

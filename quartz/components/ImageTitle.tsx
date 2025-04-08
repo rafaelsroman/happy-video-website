@@ -7,7 +7,7 @@ function ImageTitle({ fileData, displayClass }: QuartzComponentProps) {
     return (
         <div class={classNames(displayClass, "img-title")}>
             <a href={baseDir}>
-                <img src="/static/logo.webp" height="50" width="auto"/>
+                <img src="./static/logo.webp" height="50" width="auto"/>
             </a>
         </div>
     )

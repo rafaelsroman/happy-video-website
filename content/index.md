@@ -15,7 +15,6 @@ Did I wake some interest? [[#Lets Chat 🤙🏼|Lets get in touch!]] Or look at 
 
 ![[flieda.webm]]
 ![[SZENE OPENAIR FESTIVAL 2022 AFTERMOVIE.webm]]
-![[Szene2023.webm]]
 ![[02_SZENE_19_Foals_Rafael-S-Roman_2720.webp]]
 ![[07_SZENE_19_Annenmaykantereit_Rafael-S-Roman_3215.webp]]
 ![[10_SZENE_19_Donots_Rafael-S-Roman_2142.webp]]

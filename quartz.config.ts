@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Rafael S. Roman",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
