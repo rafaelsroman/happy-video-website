@@ -32,7 +32,7 @@ Did I wake some interest? [[#Lets Chat 🤙🏼|Lets get in touch!]] Or look at 
 ___
 <h4 style="text-align:center;">Had the pleasure to work with</h4>
 
-![[Workedwith2025-02.png]]
+![[Workedwith2025-02.webp]]
 
 
 ![[360 cam website.webm]]
